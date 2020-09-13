@@ -1,0 +1,162 @@
+div
+{
+  background-color: #E4F9F5;
+}
+a{
+  color: #11999E;
+  font-family: 'Oswald', sans-serif;
+  margin:10px 20px;
+  text-decoration:none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.cr{
+  color: #EAF6F6;
+  font-size: 0.75em;
+  padding: 20px 0;
+}
+h1
+{
+  font-size: 5.625rem;
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  /*line-height: 2;*/
+  font-family: 'Sacramento', cursive;
+}
+h2
+{
+  font-size: 2.5rem;
+  color: #40514E;
+  font-family: 'Oswald', sans-serif;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+h3
+{
+  font-family: 'Oswald', sans-serif;
+  color:  #11999E;
+}
+p{
+  line-height: 2;
+}
+body
+{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+/*.c3
+{
+  clear:right;// to avoid it wrapping around the image....
+}*/
+hr{
+  border: dotted #c0c0c0 6px;
+  border-bottom: none;
+  width: 8%;
+  margin:100px auto;
+}
+.contact-message
+{
+  width:40%;
+  margin :40px auto;
+}
+.skills{
+  margin-top: 0;
+}
+.intro
+{
+  width: 50%;
+  margin: auto;
+}
+.comp{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.webd{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.algo{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+#imagetags
+{
+  border-radius: 100%;
+}
+.footer-link
+{
+  display:block;
+}
+.top
+{
+  background-color: #E4F9F5;
+  position:relative;
+  padding-top: 100px;
+  line-height: normal;
+}
+.middle
+{
+  margin:0;
+  padding-top: 100px;
+}
+.a
+{
+display: inline-block;
+}
+.bottom-cloud
+{
+  position:absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.top-cloud
+{
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-container
+{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+.footer-link
+{
+  color: #11999E;
+  display: inline;
+}
+.myButton {
+	box-shadow: 0px 0px 0px 2px #8ecfed;
+	background-color:#11999E;
+	border-radius:8px;
+	border:0 solid #0b0e07;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Oswald', sans-serif;
+	font-size:20px;
+	padding:6px 9px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #263666;
+}
+.myButton:hover {
+	background-color:#0688fa;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.contact-me{
+  padding-bottom: 40px;
+}
